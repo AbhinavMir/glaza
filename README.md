@@ -8,3 +8,7 @@ npm start
 ```
 
 Will add installers, voice, editor and a webcam over the next month.
+
+______
+
+Done as practice for Fireship course
